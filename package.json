@@ -1,0 +1,17 @@
+{
+  "name": "xauusd-ai-scalper",
+  "version": "1.0.0",
+  "description": "XAUUSD Gold Scalping AI Scanner — Live forex trading dashboard with AI-powered signals",
+  "private": true,
+  "engines": {
+    "node": ">=18.x"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^34.0.0"
+  }
+}
